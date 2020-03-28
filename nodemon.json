@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_US": "dev-shop",
+        "MONGO_ATLAS_PW": "dev-shop",
+        "MONGO_ATLAS_CONNECTION": "@devcluster-qnbt5.mongodb.net/test",
+        "JWT_KEY": "token_key"
+    }
+}
